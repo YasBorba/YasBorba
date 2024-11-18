@@ -4,7 +4,8 @@
 - 😝 Atualmente cursando técnico de desenvolvimento de sistemas no SENAI
 - 🤯 Cursando o segundo ano do ensino médio 
 - 🏎️ Fã de formula 1
-- 
-  ![Transhumans - Astro](https://github.com/user-attachments/assets/d88d6174-b957-47a8-a37b-fc1c97b57eb3)
+
+![bd87c03e6629986deb4533d35be976d1](https://github.com/user-attachments/assets/f6cf39f7-db5a-4c34-a96f-5040453c3959)
+
 
 
