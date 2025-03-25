@@ -1,11 +1,10 @@
-## Hi there 😜
+# 👋 Hello! Welcome to my Github profile.
+## My name is Yasmin Lopes Borba and my nickname is "YasBorba"!
 
-- 🙌 Atualmente não trabalhando 
-- 😝 Atualmente cursando técnico de desenvolvimento de sistemas no SENAI
-- 🤯 Cursando o segundo ano do ensino médio 
-- 🏎️ Fã de formula 1
-
-![bd87c03e6629986deb4533d35be976d1](https://github.com/user-attachments/assets/f6cf39f7-db5a-4c34-a96f-5040453c3959)
-
+* 📚Eu estudo no Sesi e no Senai 
+* 🤩Estou cursando o Ensino Médio e o curso técnico de desenvolvimento de sistemas no Senai 
+* ✍️Habilidades: Css, HTML,Js,PHP, Canva, Figma e Git 
+* 📱Gmail:yasmin.b0rbalopes@gmail.com
+* 📍Localização:ABC-SP
 
 
